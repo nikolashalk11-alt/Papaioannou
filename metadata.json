@@ -1,0 +1,8 @@
+{
+  "name": "Papaioannou Auto Service",
+  "description": "Εξειδικευμένο συνεργείο αυτοκινήτων Παπαϊωάννου Auto Service στα Ιωάννινα (Κατσικάς). Υπηρεσίες συντήρησης, διαγνωστικός έλεγχος, φρένα και μηχανικές εργασίες.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
